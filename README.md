@@ -10,3 +10,7 @@ ___
     source env/bin/activate
     pip3 install aiohttp
     python3 main.py
+
+___
+### Settings
+Add username and password in USER_AUTH(str. 20) and auth(str. 99)
